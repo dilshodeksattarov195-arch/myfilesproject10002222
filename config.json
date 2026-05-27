@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicepync",
+        "uuid": 13885278,
+        "checksum": "87y88a"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
